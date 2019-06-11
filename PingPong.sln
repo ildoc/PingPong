@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ping", "Ping\Ping.csproj", "{B5D20E23-93C7-4F17-BFCD-63C818C2B9BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPongLib", "PingPongLib\PingPongLib.csproj", "{3CAEB8DE-07CB-4BEC-BD0A-F5539AD289C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pong", "Pong\Pong.csproj", "{0EDE3CB1-F215-46E1-869D-D28BFAB97B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D20E23-93C7-4F17-BFCD-63C818C2B9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D20E23-93C7-4F17-BFCD-63C818C2B9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D20E23-93C7-4F17-BFCD-63C818C2B9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D20E23-93C7-4F17-BFCD-63C818C2B9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAEB8DE-07CB-4BEC-BD0A-F5539AD289C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAEB8DE-07CB-4BEC-BD0A-F5539AD289C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAEB8DE-07CB-4BEC-BD0A-F5539AD289C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAEB8DE-07CB-4BEC-BD0A-F5539AD289C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDE3CB1-F215-46E1-869D-D28BFAB97B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDE3CB1-F215-46E1-869D-D28BFAB97B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDE3CB1-F215-46E1-869D-D28BFAB97B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDE3CB1-F215-46E1-869D-D28BFAB97B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57549998-7817-4C09-9AF3-4D69DA821D0B}
+	EndGlobalSection
+EndGlobal
