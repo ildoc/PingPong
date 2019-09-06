@@ -1,6 +1,6 @@
-﻿using MassTransit;
+﻿using System;
+using MassTransit;
 using PingPong;
-using System;
 
 namespace Pong
 {
